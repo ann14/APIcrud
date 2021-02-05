@@ -1,2 +1,3 @@
 # APIcrud
-spring boot 寫api可進行用戶資料的crud
+使用spring boot 寫api
+可進行用戶資料的crud
